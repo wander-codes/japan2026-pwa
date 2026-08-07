@@ -24,7 +24,7 @@ overview:
 `
 Nach dem Langstreckenflug kein Hardcore-Programm.
 
-Wir nutzen den Jetlag für einen entspannten Start:
+Wir nutzen den Jetlag bewusst:
 
 ✓ erstes Japan-Gefühl
 
@@ -45,7 +45,7 @@ places:[
 
 
 time:
-"06:00",
+"07:10",
 
 
 icon:
@@ -69,7 +69,7 @@ highlight:
 
 
 duration:
-"ca. 2 Stunden mit Immigration",
+"ca. 2 Stunden mit Immigration & Gepäck",
 
 
 price:
@@ -132,13 +132,14 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Nicht versuchen sofort produktiv zu sein.
+Der erste Tag muss nicht spektakulär sein.
 
-Der erste Eindruck zählt.
+Der Moment, in Japan anzukommen,
+ist bereits das Highlight.
 `
 
-
 },
+
 
 
 
@@ -147,7 +148,7 @@ Der erste Eindruck zählt.
 
 
 time:
-"08:30",
+"09:30",
 
 
 icon:
@@ -195,7 +196,7 @@ guide:{
 
 
 description:
-"Nach einem langen Flug zählt Komfort.",
+"Nach einem Langstreckenflug zählt Komfort.",
 
 
 route:[
@@ -213,7 +214,7 @@ route:[
 
 alternatives:[
 
-"Keisei Skyliner günstiger, aber komplizierter"
+"Keisei Skyliner günstiger, aber weniger direkt"
 
 ],
 
@@ -232,13 +233,11 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Nicht die letzte Minute optimieren.
-
-Komfort gewinnt nach 12 Stunden Flug.
+Nach dem Flug gewinnt Komfort gegen Sparen.
 `
 
-
 },
+
 
 
 
@@ -247,7 +246,7 @@ Komfort gewinnt nach 12 Stunden Flug.
 
 
 time:
-"10:00",
+"11:15",
 
 
 icon:
@@ -271,7 +270,7 @@ highlight:
 
 
 duration:
-"Gepäck abgeben",
+"Gepäck abgeben / Check-in falls möglich",
 
 
 price:
@@ -295,7 +294,7 @@ guide:{
 
 
 description:
-"Falls das Zimmer verfügbar ist perfekt. Falls nicht: Gepäck abgeben und los.",
+"Falls das Zimmer frei ist: perfekt. Falls nicht: Gepäck abgeben und los.",
 
 
 tips:[
@@ -318,17 +317,12 @@ Der Urlaub startet nicht im Hotelzimmer,
 sondern draußen.
 `
 
-
 },
-
-
-
-
 {
 
 
 time:
-"10:30",
+"11:30",
 
 
 icon:
@@ -398,13 +392,13 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Einfach genießen.
+Genau diese kleinen Momente machen Japan aus.
 
-Diese kleinen Momente bleiben oft am meisten hängen.
+Nicht alles muss eine Sehenswürdigkeit sein.
 `
 
-
 },
+
 
 
 
@@ -413,7 +407,7 @@ Diese kleinen Momente bleiben oft am meisten hängen.
 
 
 time:
-"11:30",
+"12:30",
 
 
 icon:
@@ -461,7 +455,7 @@ guide:{
 
 
 description:
-"Wir starten bewusst in der eigenen Umgebung statt sofort die großen Sehenswürdigkeiten abzuarbeiten.",
+"Wir starten bewusst in Gotanda und nicht direkt bei den großen Sehenswürdigkeiten.",
 
 
 photoSpots:[
@@ -477,7 +471,9 @@ photoSpots:[
 
 tips:[
 
-"Einfach treiben lassen"
+"Einfach treiben lassen",
+
+"Den ersten Eindruck genießen"
 
 ]
 
@@ -489,13 +485,12 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Nicht jeder Moment muss ein Highlight sein.
-
-Manchmal ist genau das der beste Start.
+Der erste Spaziergang durch die eigene Gegend
+ist oft einer der schönsten Momente.
 `
 
-
 },
+
 
 
 
@@ -504,7 +499,7 @@ Manchmal ist genau das der beste Start.
 
 
 time:
-"12:30",
+"13:30",
 
 
 icon:
@@ -512,11 +507,11 @@ icon:
 
 
 title:
-"Uobei Shibuya Dogenzaka",
+"Sushiro Gotanda Store",
 
 
 japanese:
-"魚べい 渋谷道玄坂店",
+"スシロー 五反田店",
 
 
 category:
@@ -528,7 +523,7 @@ highlight:
 
 
 duration:
-"45 Minuten",
+"45–60 Minuten",
 
 
 price:
@@ -536,15 +531,15 @@ price:
 
 
 map:
-"https://www.google.com/maps/search/?api=1&query=Uobei+Shibuya+Dogenzaka",
+"https://www.google.com/maps/search/?api=1&query=Sushiro+Gotanda+Tokyo",
 
 
 imageSearch:
-"Uobei Shibuya Dogenzaka Tokyo",
+"Sushiro Japan conveyor belt sushi",
 
 
 summary:
-"Erstes richtiges japanisches Essen.",
+"Das erste richtige japanische Essen – typisch und unkompliziert.",
 
 
 
@@ -552,14 +547,18 @@ guide:{
 
 
 description:
-"Schnelles, günstiges und typisch japanisches Sushi-Erlebnis.",
+"Sushiro ist perfekt für den ersten Tag: schnell, günstig und mit echtem Japan-Gefühl.",
 
 
 food:[
 
-"Sushi vom Band",
+"Sushi vom Laufband",
 
 "verschiedene Nigiri",
+
+"Thunfisch",
+
+"Lachs",
 
 "Getränke"
 
@@ -568,7 +567,9 @@ food:[
 
 tips:[
 
-"Perfekt als erstes Japan-Essen"
+"Bestellen über Tablet",
+
+"Nicht stressen lassen – einfach ausprobieren"
 
 ]
 
@@ -585,8 +586,8 @@ Der Spaßfaktor gehört dazu.
 Nicht nur essen – erleben.
 `
 
-
 },
+
 
 
 
@@ -595,7 +596,7 @@ Nicht nur essen – erleben.
 
 
 time:
-"14:30",
+"16:30",
 
 
 icon:
@@ -631,7 +632,7 @@ map:
 
 
 imageSearch:
-"Shinjuku Tokyo night",
+"Shinjuku Tokyo night neon",
 
 
 summary:
@@ -646,6 +647,17 @@ description:
 "Der perfekte erste Eindruck von Tokyo.",
 
 
+route:[
+
+"Gotanda",
+
+"JR Yamanote Line",
+
+"Shinjuku"
+
+],
+
+
 photoSpots:[
 
 "Shinjuku 3D Cat",
@@ -654,7 +666,7 @@ photoSpots:[
 
 "Godzilla Head",
 
-"Omoide Yokocho"
+"Kabukicho Tower"
 
 ],
 
@@ -672,7 +684,7 @@ mustDo:[
 
 warnings:[
 
-"Nicht von Bars ansprechen lassen"
+"Nicht von Bars oder Promotern ansprechen lassen"
 
 ]
 
@@ -684,13 +696,13 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Einfach treiben lassen.
+Shinjuku lebt nicht von einzelnen Punkten.
 
-Shinjuku lebt von der Atmosphäre.
+Die Atmosphäre ist das Highlight.
 `
 
-
 },
+
 
 
 
@@ -735,7 +747,7 @@ map:
 
 
 imageSearch:
-"Omoide Yokocho Shinjuku",
+"Omoide Yokocho Shinjuku Tokyo",
 
 
 summary:
@@ -786,8 +798,8 @@ Kevin-Tipp ⭐
 Genau solche Abende bleiben im Gedächtnis.
 `
 
-
 },
+
 
 
 
@@ -797,6 +809,84 @@ Genau solche Abende bleiben im Gedächtnis.
 
 time:
 "19:00",
+
+
+icon:
+"🚗",
+
+
+title:
+"Optional: Daikoku JDM Tour",
+
+
+category:
+"JDM / Autos",
+
+
+highlight:
+3,
+
+
+duration:
+"mehrere Stunden",
+
+
+price:
+"ca. 120 € pro Person",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Daikoku+Parking+Area+Yokohama",
+
+
+imageSearch:
+"Daikoku Parking Area Japan cars",
+
+
+summary:
+"Nur wenn der Jetlag kein Problem macht.",
+
+
+
+guide:{
+
+
+description:
+"Daikoku PA ist eines der bekanntesten Autotreffen Japans.",
+
+
+tips:[
+
+"Nur bei ausreichender Energie",
+
+"Nicht als Pflichtprogramm sehen"
+
+]
+
+
+},
+
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Cool wäre es natürlich.
+
+Aber der erste Abend in Tokyo darf auch entspannt bleiben.
+`
+
+},
+
+
+
+
+
+{
+
+
+time:
+"19:30",
 
 
 icon:
@@ -839,14 +929,19 @@ summary:
 "Kostenloser Aussichtspunkt über Tokyo.",
 
 
+
 guide:{
+
+
+description:
+"Optionaler Abschluss, wenn noch Energie vorhanden ist.",
 
 
 tips:[
 
 "Beste Zeit 19–21 Uhr",
 
-"Nur machen wenn noch Energie vorhanden"
+"Bei Müdigkeit lieber zurück ins Hotel"
 
 ]
 
@@ -858,12 +953,10 @@ kevinTip:
 `
 Kevin-Tipp ⭐
 
-Optional.
+Der Aussichtspunkt läuft nicht weg.
 
-Wenn ihr müde seid:
-Hotel gewinnt.
+Ein entspannter erster Abend ist wichtiger.
 `
-
 
 }
 

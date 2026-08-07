@@ -9,11 +9,40 @@ window.tokyoTag3 = {
 
 
 title:
-"Ginza • Nissan Crossing • teamLab • Tokyo Tower",
+"Joggen • Ginza • Nissan Crossing • teamLab • Toyosu • Tokyo Tower",
 
 
 date:
 "Montag 14.09.2026",
+
+
+summary:
+"Das futuristische Tokyo: Sport, Autos, moderne Architektur, digitale Kunst und Skyline.",
+
+
+overview:
+`
+Heute erlebt ihr eine der abwechslungsreichsten Seiten Tokyos:
+
+✓ Kaiserpalast & Morgenlauf
+
+✓ luxuriöses Ginza
+
+✓ japanische Autokultur
+
+✓ digitale Kunst bei teamLab
+
+✓ Toyosu Waterfront
+
+✓ Tokyo Tower mit Zojo-ji Tempel
+
+
+Die Reihenfolge ist bewusst gewählt:
+
+Vom ruhigen Morgen
+über modernes Tokyo
+bis zur beleuchteten Skyline am Abend.
+`,
 
 
 places:[
@@ -22,71 +51,207 @@ places:[
 {
 
 
-time:"08:00",
+time:
+"07:00",
 
-icon:"☕",
 
-title:"Komeda's Coffee Ginza",
+icon:
+"🏃‍♂️",
 
-japanese:"コメダ珈琲店",
 
-category:"Frühstück",
+title:
+"Joggen am Kaiserpalast (Kōkyo)",
 
-duration:"45 Minuten",
 
-price:"800–1.200 ¥",
+japanese:
+"皇居ラン",
 
-highlight:4,
 
-imageSearch:"Komeda Coffee Ginza Tokyo",
+category:
+"Sport & Tokyo-Erlebnis",
 
-map:"https://www.google.com/maps/search/?api=1&query=Komeda+Coffee+Ginza",
+
+duration:
+"60–90 Minuten",
+
+
+price:
+"kostenlos",
+
+
+highlight:
+5,
+
+
+imageSearch:
+"Imperial Palace Tokyo running route",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Imperial+Palace+Tokyo",
 
 
 summary:
-"Typisches japanisches Café-Frühstück mit dem beliebten Morning Set.",
+"Ein perfekter Start in den Tag: 5 km flache Laufstrecke zwischen historischen Mauern und modernen Hochhäusern.",
 
-
-details:
-`
-Heute startet ihr bewusst ruhig.
-
-In Japan gehören Morning Sets zum Alltag.
-
-Zum Kaffee gibt es häufig kostenlos Toast und ein gekochtes Ei.
-`,
 
 
 guide:{
 
+
 description:
 `
-Komeda's Coffee ist eine der bekanntesten Café-Ketten Japans.
+Der Kaiserpalast ist eine der beliebtesten Laufstrecken Tokyos.
 
-Viele Einheimische frühstücken hier vor der Arbeit.
+Die Runde ist:
 
-Der perfekte entspannte Start vor einem erlebnisreichen Tag.
+✓ flach
+
+✓ größtenteils ampelfrei
+
+✓ sicher
+
+✓ landschaftlich abwechslungsreich
+
+
+Die Kombination aus alten Steinmauern,
+Grünanlagen und Skyline ist einzigartig.
 `,
+
+
+mustDo:[
+
+"Eine Runde um den Kaiserpalast laufen",
+
+"Frühen Morgen genießen",
+
+"Tokyo langsam erwachen sehen"
+
+],
+
+
+photoSpots:[
+
+"Steinmauern des Kaiserpalasts",
+
+"Tokyo Skyline hinter den Gräben",
+
+"Nijubashi Bridge"
+
+],
+
+
+tips:[
+
+"Nicht auf Geschwindigkeit laufen",
+
+"Der Moment zählt mehr als die Kilometer"
+
+]
+
+
+},
+
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Ein kleiner Lauf am Morgen ist perfekt gegen Jetlag.
+
+Danach fühlt sich Tokyo direkt noch besser an.
+`
+
+},
+
+
+
+
+
+{
+
+
+time:
+"09:00",
+
+
+icon:
+"☕",
+
+
+title:
+"Komeda's Coffee Ginza",
+
+
+japanese:
+"コメダ珈琲店",
+
+
+category:
+"Frühstück",
+
+
+duration:
+"45 Minuten",
+
+
+price:
+"800–1.200 ¥",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"Komeda Coffee Ginza Tokyo",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Komeda+Coffee+Ginza",
+
+
+summary:
+"Typisches japanisches Café-Frühstück mit Morning Set.",
+
+
+
+guide:{
+
+
+description:
+`
+In Japan gehört ein ruhiger Café-Start zum Alltag.
+
+Viele Cafés bieten morgens ein Morning Set:
+
+☕ Kaffee
+
+🍞 Toast
+
+🥚 Ei
+
+
+Ein perfekter Start nach dem Lauf.
+`,
+
+
+food:[
+
+"Blend Coffee",
+
+"Butter Toast",
+
+"gekochtes Ei"
+
+],
 
 
 mustDo:[
 
 "Morning Set bestellen",
 
-"Blend Coffee probieren",
-
-"Butter Toast genießen"
-
-],
-
-
-food:[
-
-"☕ Blend Coffee",
-
-"🍞 Butter Toast",
-
-"🥚 gekochtes Ei"
+"Japanisches Café-Gefühl genießen"
 
 ],
 
@@ -97,83 +262,132 @@ budget:
 
 tips:[
 
-"Nicht hetzen – heute wird noch viel gelaufen.",
+"Nicht hetzen",
 
-"Morning Sets gibt es oft nur bis ca. 11 Uhr."
+"Morning Sets gibt es meist nur vormittags"
 
 ]
 
 
-}
+},
 
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Genau diese kleinen Alltagserlebnisse
+machen Japan besonders.
+`
 
 },
+
+
 
 
 
 {
 
 
-time:"09:00",
+time:
+"11:00",
 
-icon:"🚆",
 
-title:"Fahrt nach Ginza",
+icon:
+"🚗",
 
-japanese:"銀座",
 
-category:"Transfer",
+title:
+"Tamiya Plamodel Factory Tokyo",
 
-duration:"30 Minuten",
 
-price:"ca. 180 ¥",
+japanese:
+"タミヤ プラモデルファクトリー",
 
-imageSearch:"JR Yamanote Line Tokyo",
 
-map:"https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo",
+category:
+"Modellbau & Hobbykultur",
+
+
+duration:
+"45–60 Minuten",
+
+
+price:
+"0–5.000 ¥",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"Tamiya Plamodel Factory Tokyo Shimbashi",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Tamiya+Plamodel+Factory+Tokyo+Shimbashi",
 
 
 summary:
-"Kurze Fahrt vom Hotel in Tokyos elegantestes Viertel.",
+"Ein Pflichtstopp für Modellbau- und Technikfans.",
 
-
-details:
-`
-Route:
-
-Gotanda
-
-↓
-
-JR Yamanote Line
-
-↓
-
-Shimbashi
-
-↓
-
-Ginza
-`,
 
 
 guide:{
 
+
 description:
 `
-Schon der Spaziergang nach Ginza zeigt den Wandel Tokyos.
+Die Tamiya Plamodel Factory zeigt,
+wie tief die japanische Hobbykultur reicht.
 
-Moderne Hochhäuser, breite Straßen und elegante Architektur prägen dieses Viertel.
+Interessant für euch wegen:
+
+🏎 Autos
+
+🔧 Technik
+
+🏁 Modellbau
+
+🇯🇵 japanischer Detailverliebtheit
 `,
+
+
+mustDo:[
+
+"Modellbau-Abteilung anschauen",
+
+"Auto-Modelle entdecken",
+
+"Japanische Hobbykultur erleben"
+
+],
+
+
+shopping:[
+
+"Tamiya Modelle",
+
+"RC-Zubehör",
+
+"Automodelle"
+
+],
+
+
+budget:
+"kostenlos bis mehrere Tausend Yen",
 
 
 tips:[
 
-"Nicht den schnellsten Weg nehmen.",
+"Auch ohne Kauf interessant",
 
-"Der Spaziergang von Shimbashi nach Ginza lohnt sich."
+"Details anschauen – genau dafür ist Japan bekannt"
 
 ]
+
 
 }
 
@@ -182,59 +396,75 @@ tips:[
 
 
 
+
+
 {
 
 
-time:"09:30",
+time:
+"12:00",
 
-icon:"🚗",
 
-title:"Nissan Crossing",
+icon:
+"🚘",
 
-japanese:"日産クロッシング",
 
-category:"JDM & Autos",
+title:
+"Nissan Crossing Ginza",
 
-duration:"60 Minuten",
 
-price:"kostenlos",
+japanese:
+"日産クロッシング",
 
-highlight:5,
 
-imageSearch:"Nissan Crossing Ginza Tokyo",
+category:
+"JDM & Autos",
 
-map:"https://www.google.com/maps/search/?api=1&query=Nissan+Crossing+Tokyo",
+
+duration:
+"45–60 Minuten",
+
+
+price:
+"kostenlos",
+
+
+highlight:
+5,
+
+
+imageSearch:
+"Nissan Crossing Ginza Tokyo",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Nissan+Crossing+Tokyo",
 
 
 summary:
-"Ein Pflichtstopp für Autofans mitten in Ginza.",
+"Ein Pflichtbesuch für Autofans mitten in Ginza.",
 
 
-details:
+
+guide:{
+
+
+description:
 `
-Hier stehen regelmäßig:
+Nissan Crossing ist kein gewöhnlicher Showroom.
+
+Hier findet ihr häufig:
 
 🏎 Nissan GT-R
 
 🏎 Fairlady Z
 
-⚡ Ariya
+⚡ aktuelle Modelle
 
 🚘 Konzeptfahrzeuge
 
-Je nach Saison wechseln die Fahrzeuge.
-`,
 
-
-guide:{
-
-description:
-`
-Nissan Crossing ist mehr als ein Autohaus.
-
-Es ist ein moderner Showroom mit wechselnden Fahrzeugen, Simulatoren und einer kleinen Ausstellung.
-
-Für JDM-Fans gehört dieser Ort einfach dazu.
+Die ausgestellten Fahrzeuge wechseln regelmäßig.
 `,
 
 
@@ -244,20 +474,18 @@ photoSpots:[
 
 "Fairlady Z",
 
-"Eingangsbereich",
-
-"Fahrzeuge im Obergeschoss"
+"Showroom Innenbereich"
 
 ],
 
 
 mustDo:[
 
-"Alle Fahrzeuge anschauen",
+"Fahrzeuge anschauen",
 
-"Merchandise-Bereich besuchen",
+"Simulator ausprobieren",
 
-"Simulator ausprobieren"
+"Merchandise-Bereich besuchen"
 
 ],
 
@@ -279,70 +507,96 @@ budget:
 
 tips:[
 
-"Auch das Obergeschoss besuchen.",
+"Auch das Obergeschoss anschauen",
 
-"Details der Fahrzeuge anschauen."
+"Auf Details der Fahrzeuge achten"
 
 ]
-
-
-}
 
 
 },
 
 
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Für euch als Autofans ist Nissan Crossing
+einer der kleinen Tokyo-Momente,
+die man nicht vergessen sollte.
+`
+
+},
+
 {
 
 
-time:"10:30",
+time:
+"12:45",
 
-icon:"🏙",
 
-title:"Ginza & GINZA SIX Garden",
+icon:
+"🏙️",
 
-japanese:"銀座",
 
-category:"Stadtviertel",
+title:
+"Ginza entdecken & GINZA SIX Garden",
 
-duration:"60 Minuten",
 
-price:"kostenlos",
+japanese:
+"銀座・GINZA SIX",
 
-highlight:4,
 
-imageSearch:"GINZA SIX Garden Tokyo",
+category:
+"Architektur & Stadtviertel",
 
-map:"https://www.google.com/maps/search/?api=1&query=GINZA+SIX+Garden",
+
+duration:
+"60 Minuten",
+
+
+price:
+"kostenlos",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"GINZA SIX Garden Tokyo rooftop",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=GINZA+SIX+Garden",
+
 
 
 summary:
-"Luxus, moderne Architektur und einer der schönsten kostenlosen Rooftops Tokyos.",
+"Elegantes Tokyo, moderne Architektur und eine überraschend ruhige kostenlose Dachterrasse.",
 
-
-details:
-`
-Nicht stundenlang shoppen.
-
-Das Highlight ist:
-
-🏙 Architektur
-
-🌿 GINZA SIX Garden
-
-📸 Blick über Ginza
-`,
 
 
 guide:{
 
+
 description:
 `
-Ginza ist Tokyos elegantestes Viertel.
+Nach Nissan Crossing geht es nicht um Shopping.
 
-Zwischen luxuriösen Geschäften versteckt sich auf dem Dach von GINZA SIX ein kostenloser Rooftop-Garten.
+Viel spannender:
 
-Viele Besucher laufen einfach daran vorbei.
+🏙 moderne Architektur
+
+🚶 breite Straßen
+
+🏬 japanische Kaufhäuser
+
+🌿 GINZA SIX Garden
+
+
+Viele Besucher laufen an diesem Ort vorbei.
+Dabei gehört die Dachterrasse zu den schönsten kostenlosen Aussichtspunkten in Ginza.
 `,
 
 
@@ -350,7 +604,7 @@ photoSpots:[
 
 "GINZA SIX Garden",
 
-"Blick über Ginza",
+"Blick über die Ginza Skyline",
 
 "Moderne Architektur"
 
@@ -359,9 +613,9 @@ photoSpots:[
 
 mustDo:[
 
-"Dachterrasse besuchen",
+"Rooftop-Garten besuchen",
 
-"Kurze Pause machen",
+"Kleine Pause einlegen",
 
 "Architektur genießen"
 
@@ -374,63 +628,92 @@ budget:
 
 tips:[
 
-"Kaum Touristen auf dem Rooftop.",
+"Kaum Touristen",
 
-"Perfekt für eine kleine Pause."
+"Perfekt zum Durchatmen vor teamLab"
 
 ]
 
 
-}
+},
 
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Nicht jede Sehenswürdigkeit muss spektakulär sein.
+
+Manchmal sind genau diese ruhigen Orte
+die schönsten Erinnerungen.
+`
 
 },
+
+
 
 
 
 {
 
 
-time:"11:30",
+time:
+"13:15",
 
-icon:"☕",
 
-title:"Cafe de L'Ambre",
+icon:
+"☕",
 
-japanese:"カフェ・ド・ランブル",
 
-category:"Kaffeepause",
+title:
+"Cafe de L'Ambre",
 
-duration:"45 Minuten",
 
-price:"800–1.500 ¥",
+japanese:
+"カフェ・ド・ランブル",
 
-highlight:4,
 
-imageSearch:"Cafe de L'Ambre Tokyo",
+category:
+"Kaffeekultur",
 
-map:"https://www.google.com/maps/search/?api=1&query=Cafe+de+L'Ambre+Tokyo",
+
+duration:
+"45 Minuten",
+
+
+price:
+"800–1.500 ¥",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"Cafe de L'Ambre Ginza Tokyo",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Cafe+de+L%27Ambre+Tokyo",
+
 
 
 summary:
-"Eines der legendärsten Kaffeehäuser Tokyos.",
+"Legendäres Kaffeehaus in Ginza – ruhig, traditionell und typisch japanisch.",
 
-
-details:
-`
-Ein ruhiger Kontrast zum geschäftigen Ginza.
-
-Perfekt für eine kleine Pause vor teamLab.
-`,
 
 
 guide:{
 
+
 description:
 `
-Cafe de L'Ambre ist eine Institution für Kaffeeliebhaber.
+Cafe de L'Ambre ist eine Institution.
 
-Hier geht es nicht um schnellen Kaffee, sondern um bewusstes Genießen.
+Hier geht es nicht um schnellen Kaffee,
+sondern um bewusstes Genießen.
+
+Ein schöner Kontrast zum modernen Ginza.
 `,
 
 
@@ -438,7 +721,16 @@ mustDo:[
 
 "Filterkaffee probieren",
 
-"Die Atmosphäre genießen"
+"Atmosphäre genießen"
+
+],
+
+
+food:[
+
+"Kaffeespezialitäten",
+
+"kleine Desserts"
 
 ],
 
@@ -449,117 +741,141 @@ budget:
 
 tips:[
 
-"Zeit mitbringen.",
+"Zeit nehmen",
 
-"Nicht nur trinken – die Atmosphäre erleben."
+"Nicht nur kurz trinken und weitergehen"
 
 ]
 
 
-}
+},
 
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Genau solche kleinen traditionellen Orte
+zeigen eine andere Seite Japans.
+`
 
 },
+
+
 
 
 
 {
 
 
-time:"12:45",
+time:
+"14:30",
 
-icon:"🎨",
 
-title:"teamLab Planets",
+icon:
+"🎨",
 
-japanese:"チームラボプラネッツ",
 
-category:"Digitale Kunst",
+title:
+"teamLab Planets",
 
-duration:"2–2,5 Stunden",
 
-price:"ca. 4.000–5.000 ¥",
+japanese:
+"チームラボプラネッツ",
 
-highlight:5,
 
-imageSearch:"teamLab Planets Tokyo",
+category:
+"Digitale Kunst",
 
-map:"https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Tokyo",
+
+duration:
+"2–2,5 Stunden",
+
+
+price:
+"ca. 4.000–5.000 ¥ pro Person",
+
+
+highlight:
+5,
+
+
+imageSearch:
+"teamLab Planets Tokyo",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Tokyo",
+
 
 
 summary:
-"Eine der beeindruckendsten digitalen Kunstausstellungen der Welt.",
+"Eine der beeindruckendsten digitalen Kunsterfahrungen Tokyos.",
 
-
-details:
-`
-Vorher unbedingt:
-
-✅ Toilette
-
-✅ Handy laden
-
-✅ Kamera reinigen
-
-
-Ihr lauft teilweise barfuß durch Wasser.
-
-Keine langen Hosen tragen.
-`,
 
 
 guide:{
 
+
 description:
 `
-teamLab Planets gehört zu den absoluten Highlights Tokyos.
+teamLab Planets ist kein klassisches Museum.
 
-Ihr besucht keine normale Ausstellung.
+Ihr werdet Teil der Ausstellung:
 
-Licht, Wasser, Spiegel und Musik verschmelzen zu einem Erlebnis, bei dem ihr selbst Teil der Kunst werdet.
+💡 Licht
+
+💧 Wasser
+
+🪞 Spiegel
+
+🌸 Bewegung
+
+
+Nicht einfach durchlaufen.
+
+Nehmt euch Zeit.
 `,
+
+
+mustDo:[
+
+"Barfuß durch die Ausstellung gehen",
+
+"Wasserbereiche erleben",
+
+"Spiegelräume genießen"
+
+],
 
 
 photoSpots:[
 
 "Spiegelräume",
 
-"Wasserinstallation",
-
 "Lichterwelten",
 
-"Blumenräume"
-
-],
-
-
-mustDo:[
-
-"Barfuß durch das Wasser laufen",
-
-"Zeit in den Spiegelräumen nehmen",
-
-"Nicht einfach durchlaufen"
+"Blumeninstallationen"
 
 ],
 
 
 warnings:[
 
+"Keine empfindlichen langen Hosen",
+
 "Handy vorher laden",
 
-"Barfußbereich",
-
-"Wasserbereiche"
+"Kamera sauber machen"
 
 ],
 
 
 tips:[
 
-"Für Fotos kurz warten, bis weniger Menschen im Raum sind.",
+"Auf ruhigere Momente warten",
 
-"Mindestens zwei Stunden einplanen."
+"Nicht nur fotografieren – erleben"
 
 ],
 
@@ -568,58 +884,92 @@ budget:
 "ca. 10.000 ¥ für zwei Personen"
 
 
-}
+},
 
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Das ist einer der Momente,
+bei denen man später sagt:
+
+"Genau dafür sind wir nach Japan geflogen."
+`
 
 },
+
+
 
 
 
 {
 
 
-time:"15:15",
+time:
+"17:00",
 
-icon:"🌊",
 
-title:"Toyosu Waterfront",
+icon:
+"🌊",
 
-japanese:"豊洲",
 
-category:"Spaziergang",
+title:
+"Toyosu Waterfront Spaziergang",
 
-duration:"60 Minuten",
 
-price:"kostenlos",
+japanese:
+"豊洲",
 
-highlight:4,
 
-imageSearch:"Toyosu Waterfront Tokyo",
+category:
+"Wasserfront & Skyline",
 
-map:"https://www.google.com/maps/search/?api=1&query=Toyosu+Waterfront",
+
+duration:
+"45–60 Minuten",
+
+
+price:
+"kostenlos",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"Toyosu Waterfront Tokyo Rainbow Bridge",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Toyosu+Waterfront+Tokyo",
+
 
 
 summary:
-"Ruhe, Wasser und Skyline – kaum zu glauben, dass ihr mitten in Tokyo seid.",
+"Ruhe, Wasser und Skyline – eine ganz andere Seite Tokyos.",
 
-
-details:
-`
-Nach teamLab nicht direkt weiterfahren.
-
-Genießt den Spaziergang entlang der Bucht.
-
-Perfekt zum Abschalten.
-`,
 
 
 guide:{
 
+
 description:
 `
-Toyosu zeigt eine völlig andere Seite Tokyos.
+Nach teamLab nicht sofort weiterfahren.
 
-Moderne Gebäude, breite Promenaden und die Wasserfront sorgen für einen starken Kontrast zur Innenstadt.
+Toyosu bietet einen perfekten Kontrast:
+
+weg vom Trubel
+
+hin zu:
+
+🌊 Wasser
+
+🏙 moderner Architektur
+
+🌉 Skyline-Blicken
 `,
 
 
@@ -627,9 +977,9 @@ photoSpots:[
 
 "Rainbow Bridge",
 
-"Skyline",
+"Wasserfront",
 
-"Wasserfront"
+"Moderne Hochhäuser"
 
 ],
 
@@ -645,114 +995,154 @@ food:[
 ],
 
 
-tips:[
+mustDo:[
 
-"Ein Konbini-Stopp gehört hier einfach dazu.",
+"Kurzen Spaziergang machen",
 
-"Perfekt für entspannte Fotos."
+"Konbini-Snack holen",
+
+"Fotos an der Bucht machen"
 
 ],
 
 
 budget:
-"500–1.000 ¥"
+"500–1.000 ¥",
 
 
-}
+tips:[
+
+"Perfekt zum Abschalten",
+
+"Nicht hetzen"
+
+]
 
 
 },
 
 
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Nach den vielen Eindrücken von teamLab
+ist genau so ein ruhiger Moment Gold wert.
+`
+
+},
 
 {
 
 
-time:"17:30",
+time:
+"18:30",
 
-icon:"🗼",
 
-title:"Tokyo Tower & Zojo-ji",
+icon:
+"🗼",
 
-japanese:"東京タワー",
 
-category:"Fotospot",
+title:
+"Zojo-ji Tempel & Tokyo Tower",
 
-duration:"90 Minuten",
 
-price:"kostenlos",
+japanese:
+"増上寺・東京タワー",
 
-highlight:5,
 
-imageSearch:"Tokyo Tower Zojoji Temple",
+category:
+"Fotospot & Tradition",
 
-map:"https://www.google.com/maps/search/?api=1&query=Zojoji+Temple+Tokyo",
+
+duration:
+"90 Minuten",
+
+
+price:
+"kostenlos",
+
+
+highlight:
+5,
+
+
+imageSearch:
+"Zojoji Temple Tokyo Tower night",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Zojoji+Temple+Tokyo",
+
 
 
 summary:
-"Der wohl schönste Blick auf den Tokyo Tower.",
+"Einer der schönsten Fotospots Tokyos: jahrhundertealter Tempel mit dem beleuchteten Tokyo Tower im Hintergrund.",
 
-
-details:
-`
-Nicht hinauffahren.
-
-Der schönste Eindruck entsteht tatsächlich von unten.
-
-Besonders vom Zojo-ji Tempel.
-`,
 
 
 guide:{
 
+
 description:
 `
-Hier treffen Tradition und Moderne aufeinander.
+Hier zeigt Tokyo seine größte Stärke:
 
-Vor euch liegt der historische Zojo-ji Tempel.
+Tradition und Moderne direkt nebeneinander.
 
-Direkt dahinter erhebt sich der Tokyo Tower.
+Vor euch:
 
-Eines der bekanntesten Fotomotive Tokyos.
+⛩ Zojo-ji Tempel
+
+dahinter:
+
+🗼 Tokyo Tower
+
+
+Genau diese Kombination macht Tokyo einzigartig.
 `,
 
 
 photoSpots:[
 
-"Zojo-ji Tempel",
+"Zojo-ji Haupttor mit Tokyo Tower",
 
-"Tokyo Tower",
+"Tempelanlage mit Skyline",
 
-"Shiba Park"
+"Shiba Park",
+
+"Tokyo Tower bei eingeschalteter Beleuchtung"
 
 ],
 
 
 mustDo:[
 
-"Bis zum Sonnenuntergang bleiben",
+"Zum Tempel laufen",
 
-"Tower-Beleuchtung erleben",
+"Fotos vom klassischen Motiv machen",
 
-"Durch den Shiba Park spazieren"
+"Durch Shiba Park spazieren",
+
+"Tokyo Tower von unten genießen"
 
 ],
 
 
 warnings:[
 
-"Nicht direkt zum Tower laufen.",
+"Nicht direkt zum Tower laufen – der Tempelblick ist besser",
 
-"Der Tempel bietet die besseren Fotos."
+"Bei den Gebetsbereichen respektvoll verhalten"
 
 ],
 
 
 tips:[
 
-"Etwa 30 Minuten vor Sonnenuntergang dort sein.",
+"30 Minuten vor Sonnenuntergang ankommen",
 
-"Nach Einbruch der Dunkelheit wirkt der Tower besonders schön."
+"Nach Einbruch der Dunkelheit wirkt der Tower besonders schön"
 
 ],
 
@@ -761,64 +1151,92 @@ budget:
 "kostenlos"
 
 
-}
+},
 
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Das ist wahrscheinlich einer der Momente,
+bei denen ihr später beim Durchblättern der Fotos sagt:
+
+"Da waren wir wirklich in Tokyo."
+`
 
 },
+
+
 
 
 
 {
 
 
-time:"19:00",
+time:
+"19:30",
 
-icon:"🍽",
 
-title:"Tonkatsu Aoki Daimon",
+icon:
+"🍽️",
 
-japanese:"とんかつ あおき",
 
-category:"Abendessen",
+title:
+"Tonkatsu Aoki Daimon",
 
-duration:"60 Minuten",
 
-price:"2.000–3.000 ¥",
+japanese:
+"とんかつ 大門",
 
-highlight:4,
 
-imageSearch:"Tonkatsu Aoki Daimon Tokyo",
+category:
+"Abendessen",
 
-map:"https://www.google.com/maps/search/?api=1&query=Tonkatsu+Aoki+Daimon",
+
+duration:
+"60 Minuten",
+
+
+price:
+"2.000–3.000 ¥ pro Person",
+
+
+highlight:
+4,
+
+
+imageSearch:
+"Tonkatsu Aoki Daimon Tokyo",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Tonkatsu+Aoki+Daimon",
+
 
 
 summary:
-"Eines der Gerichte, das viele nach der Japanreise vermissen.",
+"Klassisches japanisches Tonkatsu als perfekter Abschluss nach einem erlebnisreichen Tag.",
 
-
-details:
-`
-Empfehlung:
-
-🥩 Premium Pork Tonkatsu
-
-🍚 Reis
-
-🥣 Misosuppe
-`,
 
 
 guide:{
 
+
 description:
 `
-Tonkatsu gehört zu den beliebtesten japanischen Gerichten.
+Tonkatsu gehört zu den Gerichten,
+die viele Reisende nach Japan vermissen.
 
-Außen knusprig.
+Außen:
 
-Innen unglaublich saftig.
+🥢 knusprige Panade
 
-Ein perfekter Abschluss für diesen Tag.
+Innen:
+
+🥩 saftiges Fleisch
+
+
+Ein perfekter Abschluss für diesen Tokyo-Tag.
 `,
 
 
@@ -828,94 +1246,232 @@ food:[
 
 "Reis",
 
-"Misosuppe"
+"Misosuppe",
+
+"Krautsalat"
 
 ],
 
 
 mustDo:[
 
-"Ersten Bissen pur probieren",
+"Ersten Bissen ohne Sauce probieren",
 
-"Knusprige Panade genießen"
+"Langsam genießen",
+
+"Reis und Beilagen nach japanischer Art essen"
 
 ],
 
 
-tips:[
+alternatives:[
 
-"Nicht zu viel Sauce verwenden.",
+"Maisen Ginza",
 
-"Langsam essen und genießen."
+"Katsukura"
 
 ],
 
 
 budget:
-"4.000–6.000 ¥ für zwei Personen"
+"4.000–6.000 ¥ für zwei Personen",
 
 
-}
+tips:[
+
+"Zu Stoßzeiten kann es Wartezeit geben",
+
+"Nicht hetzen – Abend genießen"
+
+]
 
 
 },
+
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Nach Kunst, Skyline und Wasserfront
+ist ein klassisches japanisches Essen genau richtig.
+`
+
+},
+
+
 
 
 
 {
 
 
-time:"21:00",
-
-icon:"📖",
-
-title:"Tag 3 Zusammenfassung",
-
-category:"Tagesabschluss",
-
-duration:"5 Minuten",
-
-price:"-",
+time:
+"21:00",
 
 
-highlight:5,
+icon:
+"🚃",
+
+
+title:
+"Rückfahrt zum Hotel",
+
+
+japanese:
+"五反田へ帰宅",
+
+
+category:
+"Transport",
+
+
+duration:
+"ca. 20 Minuten",
+
+
+price:
+"ca. 180 ¥",
+
+
+imageSearch:
+"Tokyo train night Japan",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Gotanda+Station+Tokyo",
+
 
 
 summary:
-"Einer der abwechslungsreichsten Tage eurer Tokyo-Reise.",
+"Gemütliche Rückfahrt nach Gotanda nach einem langen, aber entspannten Tag.",
 
-
-details:
-`
-🚶 Laufstrecke:
-
-10–12 km
-
-
-💴 Budget:
-
-ca. 23.000 ¥ für zwei Personen
-
-
-Highlights:
-
-⭐⭐⭐⭐⭐ Nissan Crossing
-
-⭐⭐⭐⭐⭐ teamLab Planets
-
-⭐⭐⭐⭐⭐ Tokyo Tower & Zojo-ji
-
-⭐⭐⭐⭐☆ Kulinarik
-`,
 
 
 guide:{
 
+
 description:
 `
-Heute habt ihr das futuristische Tokyo erlebt.
+Route:
 
-Von luxuriösen Einkaufsstraßen über digitale Kunst bis zur beleuchteten Skyline.
+Akabanebashi
+
+↓
+
+Mita
+
+↓
+
+Gotanda
+
+
+Dauer:
+
+ca. 20 Minuten
+`,
+
+
+tips:[
+
+"Keine weiteren Programmpunkte einplanen",
+
+"Morgen wartet der nächste Tokyo-Tag"
+
+]
+
+
+},
+
+
+kevinTip:
+`
+Kevin-Tipp ⭐
+
+Perfekter Zeitpunkt aufzuhören.
+
+Nicht jeder Abend muss bis Mitternacht gehen.
+`
+
+},
+
+
+
+
+
+{
+
+
+time:
+"21:30",
+
+
+icon:
+"📖",
+
+
+title:
+"Tag 3 Zusammenfassung",
+
+
+category:
+"Tagesabschluss",
+
+
+duration:
+"5 Minuten",
+
+
+price:
+"-",
+
+
+highlight:
+5,
+
+
+imageSearch:
+"Tokyo Tower Zojoji Tokyo night",
+
+
+map:
+"https://www.google.com/maps/search/?api=1&query=Tokyo+Tower+Zojoji",
+
+
+
+summary:
+"Einer der abwechslungsreichsten Tage eurer gesamten Tokyo-Reise.",
+
+
+
+guide:{
+
+
+description:
+`
+Heute habt ihr viele verschiedene Seiten Tokyos erlebt:
+
+🏃 Morgen:
+Kaiserpalast und Skyline
+
+🚗 Auto-Kultur:
+Tamiya & Nissan
+
+🏙 Stadt:
+Ginza
+
+🎨 Zukunft:
+teamLab
+
+🌊 Ruhe:
+Toyosu Waterfront
+
+⛩ Tradition:
+Zojo-ji & Tokyo Tower
+
+🍽 Genuss:
+Tonkatsu
+
 
 Ein Tag voller Kontraste.
 `,
@@ -923,22 +1479,57 @@ Ein Tag voller Kontraste.
 
 mustDo:[
 
-"GINZA SIX Rooftop",
+"Kaiserpalast-Runde laufen",
 
-"Nissan Crossing",
+"Nissan Crossing besuchen",
 
-"teamLab Planets",
+"GINZA SIX Garden anschauen",
 
-"Tokyo Tower vom Zojo-ji"
+"teamLab nicht hetzen",
+
+"Tokyo Tower vom Zojo-ji fotografieren"
+
+],
+
+
+budget:
+`
+Paar:
+
+ca. 23.000 ¥
+
+inklusive:
+
+✓ Frühstück
+
+✓ Transport
+
+✓ teamLab
+
+✓ Snacks
+
+✓ Abendessen
+`,
+
+
+warnings:[
+
+"Nicht zu lange in Ginza shoppen",
+
+"Bei teamLab Zeit lassen",
+
+"Tokyo Tower nicht zwingend hochfahren"
 
 ],
 
 
 tips:[
 
-"Nicht alles nur fotografieren – manche Momente einfach genießen.",
+"Früher Start lohnt sich",
 
-"Der Zojo-ji Fotospot gehört zu den schönsten Erinnerungen Tokyos."
+"Die besten Erinnerungen entstehen oft zwischen den Programmpunkten",
+
+"Der Zojo-ji Fotospot gehört zu den Highlights Tokyos"
 
 ]
 
@@ -952,4 +1543,4 @@ tips:[
 ]
 
 
-};
+}

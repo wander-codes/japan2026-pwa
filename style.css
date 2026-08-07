@@ -871,3 +871,23 @@ color:#ffd54f;
 
 
 }
+/* ======================================
+   Mobile Navigation Abstand
+   ====================================== */
+
+
+body {
+
+padding-bottom: 90px;
+
+}
+
+
+
+/* Hauptinhalt nicht unter Navigation verstecken */
+
+#content {
+
+padding-bottom: 40px;
+
+}

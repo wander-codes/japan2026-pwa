@@ -707,7 +707,410 @@ ${f.day}
 
 
 
+// ======================================
+// REISE INFORMATIONEN
+// ======================================
 
+function showTravel(){
+
+
+const content =
+document.getElementById("content");
+
+
+
+content.innerHTML = `
+
+
+
+<div class="city-header">
+
+
+<h2>
+
+🧳 Reiseinformationen
+
+</h2>
+
+
+<p>
+
+Japan 2026
+
+</p>
+
+
+</div>
+
+
+
+
+
+<div class="card">
+
+
+<h3>
+
+✈️ Fluginformationen
+
+</h3>
+
+
+
+<h4>
+
+Hinflug Amsterdam
+
+</h4>
+
+
+<p>
+
+${travelInfo.flight.outbound1.date}
+
+<br>
+
+${travelInfo.flight.outbound1.route}
+
+
+<br>
+
+${travelInfo.flight.outbound1.time}
+
+<br>
+
+${travelInfo.flight.outbound1.flight}
+
+</p>
+
+
+<h4>
+
+Hinflug Tokyo
+
+</h4>
+
+
+<p>
+
+${travelInfo.flight.outbound.date}
+
+<br>
+
+${travelInfo.flight.outbound.route}
+
+<br>
+
+${travelInfo.flight.outbound.airline}
+<br>
+
+${travelInfo.flight.outbound.time}
+<br>
+${travelInfo.flight.outbound.flight}
+
+</p>
+
+
+
+<h4>
+Rückflug Amsterdam
+
+</h4>
+
+
+<p>
+
+${travelInfo.flight.return1.date}
+
+<br>
+
+${travelInfo.flight.return1.route}
+
+<br>
+
+${travelInfo.flight.return1.airline}
+<br>
+${travelInfo.flight.return1.time}
+<br>
+${travelInfo.flight.return1.route}
+<br>
+${travelInfo.flight.return1.flight}
+
+</p>
+
+<h4>
+Rückflug Düsseldorf
+
+</h4>
+
+
+<p>
+
+${travelInfo.flight.return.date}
+
+<br>
+
+${travelInfo.flight.return.route}
+
+<br>
+
+${travelInfo.flight.return.airline}
+<br>
+${travelInfo.flight.return.time}
+<br>
+${travelInfo.flight.return.route}
+<br>
+${travelInfo.flight.return.flight}
+
+</p>
+
+
+
+</div>
+
+
+
+
+
+<div class="card">
+
+
+<h3>
+
+🏨 Hotels
+
+</h3>
+
+
+
+${travelInfo.hotels.items.map(h=>`
+
+
+<p>
+
+<b>${h.city}</b>
+
+<br>
+
+${h.name}
+
+</p>
+
+
+`).join("")}
+
+
+
+</div>
+
+
+
+
+`;
+
+
+
+}
+// ======================================
+// MEHR / JAPAN INFOS
+// ======================================
+
+
+function showMore(){
+
+
+const content =
+document.getElementById("content");
+
+
+
+content.innerHTML = `
+
+
+
+<div class="city-header">
+
+
+<h2>
+
+⚙️ Mehr
+
+</h2>
+
+
+<p>
+
+Japan Wissen & Reisehilfe
+
+</p>
+
+
+</div>
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showJapanBasics()">
+
+
+<h3>
+
+🇯🇵 Japan Basics
+
+</h3>
+
+
+<p>
+
+Kultur, Regeln und wichtige Hinweise
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showTransportInfo()">
+
+
+<h3>
+
+🚆 Transport
+
+</h3>
+
+
+<p>
+
+Züge, Suica, Shinkansen & Bahnfahren
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showMoneyInfo()">
+
+
+<h3>
+
+💴 Geld & Bezahlen
+
+</h3>
+
+
+<p>
+
+Bargeld, Karten und Automaten
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showFoodInfo()">
+
+
+<h3>
+
+🍜 Essen in Japan
+
+</h3>
+
+
+<p>
+
+Restaurants, Bestellen und Tipps
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showPackingInfo()">
+
+
+<h3>
+
+🎒 Packliste
+
+</h3>
+
+
+<p>
+
+Was mitnehmen für Japan?
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="card menu-card"
+
+onclick="showEmergencyInfo()">
+
+
+<h3>
+
+🆘 Notfallinfos
+
+</h3>
+
+
+<p>
+
+Wichtige Nummern und Hilfe
+
+</p>
+
+
+</div>
+
+
+
+
+
+`;
+
+
+
+}
 
 // ======================================
 // START
